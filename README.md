@@ -59,6 +59,8 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamzahadu/hamzahadu/snake-output/snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ###
