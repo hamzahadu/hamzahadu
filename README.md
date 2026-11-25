@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! I'm Hamza, a 5th-year IT engineering student from Morocco 🇲🇦, interested in Artificial Intelligence, backend development, and intelligent systems.</h2>
+
 
 ###
 
